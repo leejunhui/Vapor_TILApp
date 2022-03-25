@@ -9,3 +9,13 @@ Today I Learned App in Vapor.
 ```bash
 xcodebuild -resolvePackageDependencies -scmProvider system
 ```
+
+然后执行如下命令打开项目
+
+```
+open Package.swift
+```
+
+# 编译要求
+
+`Xcode 13.1` 及以上，`Swift 5.5` 及以上
